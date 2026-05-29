@@ -1,5 +1,5 @@
 ---
-title: "코딩 사고 흐름 — 문자열 뒤집기 (Reverse String)"
+title: "문자열 뒤집기 (Reverse String)"
 date: 2024-01-01
 draft: false
 tags: ["python", "stack", "string", "leetcode"]

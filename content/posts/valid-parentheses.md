@@ -1,5 +1,5 @@
 ---
-title: "코딩 사고 흐름 — 유효한 괄호 (Valid Parentheses)"
+title: "유효한 괄호 (Valid Parentheses)"
 date: 2024-01-01
 draft: false
 tags: ["python", "stack", "dictionary", "leetcode"]

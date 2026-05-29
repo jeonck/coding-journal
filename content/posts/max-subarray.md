@@ -1,5 +1,5 @@
 ---
-title: "코딩 사고 흐름 — 최대 부분 합 (Maximum Subarray)"
+title: "최대 부분 합 (Maximum Subarray)"
 date: 2024-01-01
 draft: false
 tags: ["python", "dynamic-programming", "array", "leetcode"]
