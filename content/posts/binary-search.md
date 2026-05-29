@@ -1,5 +1,5 @@
 ---
-title: "코딩 사고 흐름 — 이진 탐색 (Binary Search)"
+title: "이진 탐색 (Binary Search)"
 date: 2024-01-01
 draft: false
 tags: ["python", "binary-search", "array", "leetcode"]
