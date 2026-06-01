@@ -1,5 +1,5 @@
 ---
-title: "코딩 사고 흐름 — 슬라이딩 윈도우 (Longest Substring Without Repeating Characters)"
+title: "슬라이딩 윈도우 (Longest Substring Without Repeating Characters)"
 date: 2024-01-01
 draft: false
 tags: ["python", "sliding-window", "string", "set", "leetcode"]
